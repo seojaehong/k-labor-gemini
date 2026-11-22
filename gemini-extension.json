@@ -1,0 +1,14 @@
+{
+    "name": "k-labor",
+    "version": "0.1.0",
+    "description": "Korean labor calculators and HR form reference from \uc77c\uc758 \ubb34\ub2ac (k-labor).",
+    "mcpServers": {
+        "k-labor": {
+            "httpUrl": "https://yellowenvelope.kr/api/mcp/mcp",
+            "includeTools": [
+                "calc_holiday_pay",
+                "list_hr_forms"
+            ]
+        }
+    }
+}
